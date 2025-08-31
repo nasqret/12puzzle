@@ -18,6 +18,11 @@ The Streamlit app was generated from a paper draft (+ minor modifications before
 
 https://chatgpt.com/share/68b3a32c-0db0-8007-b81c-1e47bb0667d1
 
+To run the Streamlit app use
+
+pip install streamlit matplotlib
+streamlit run puzzle.py
+
 
 The paper went into a series of self-improving prompts which were reiterated up to version 7. I have read the version 7 to verify it.
 
